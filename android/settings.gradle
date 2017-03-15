@@ -1,0 +1,3 @@
+rootProject.name = 'testGitFlow'
+
+include ':app'
